@@ -1,5 +1,14 @@
+<<<<<<< HEAD
 Tenth Edit-
 Data in stashing demo for untracked file. 
+=======
+My tenth Edit-
+Data for stashing demo 2.
+My ninth edit-
+Data for stashing demo.
+
+
+>>>>>>> bigtrouble
 
 My eight edit-
 Rebasing demo in myfeature branch.
