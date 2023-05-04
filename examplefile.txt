@@ -1,4 +1,7 @@
 
+stashing demo in branch. 
+
+
 multi stash demo/ / / 
 
 Branching And Merging. 
